@@ -5,7 +5,6 @@ A passionate Informatic Engineering Student focused on Web Development and Cyber
 🔭 I'm interested in:
 - Full Stack Web Development
 - Application Security
-- Network Security
 - Ethical Hacking
 
 🌱 I'm currently learning:
