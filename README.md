@@ -4,11 +4,12 @@ A passionate Informatic Engineering Student focused on Web Development and Cyber
 
 🔭 I'm interested in:
 - Full Stack Web Development
-- Application Security
+- Machine Learning
 - Ethical Hacking
 
 🌱 I'm currently learning:
 - React JS & Modern JavaScript
+- Random Forest and any models for Prediction and Classification
 - Penetration Testing Techniques
 - Security Tools & Frameworks
 
