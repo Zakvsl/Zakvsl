@@ -8,7 +8,7 @@ A passionate Informatic Engineering Student focused on Web Development and Cyber
 - Ethical Hacking
 
 🌱 I'm currently learning:
-- React JS & Modern JavaScript
+- React JS
 - Random Forest and any models for Prediction and Classification
 - Penetration Testing Techniques
 - Security Tools & Frameworks
